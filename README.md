@@ -2,8 +2,8 @@
 Predicting the best team players for Manchester City for Football Match Final. 
 For this we need data of each player then applying statistical analysis to select best football player. So, to get data we perfotm Web Scrapping.
 
-Rodri : https://fbref.com/en/players/6434f10d/all_comps/Rodri-Stats---All-Competitions 
-Manuel Akhanji : https://fbref.com/en/players/89ac64a6/all_comps/Manuel-Akanji-Stats---All-Competitions > 
+### Rodri : https://fbref.com/en/players/6434f10d/all_comps/Rodri-Stats---All-Competitions >
+### Manuel Akhanji : https://fbref.com/en/players/89ac64a6/all_comps/Manuel-Akanji-Stats---All-Competitions > 
 Ruben Dias : https://fbref.com/en/players/31c69ef1/all_comps/Ruben-Dias-Stats---All-Competitions > 
 Nathan Ake : https://fbref.com/en/players/eaeca114/all_comps/Nathan-Ake-Stats---All-Competitions > 
 Kyle Walker : https://fbref.com/en/players/86dd77d1/all_comps/Kyle-Walker-Stats---All-Competitions > 
